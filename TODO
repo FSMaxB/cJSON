@@ -1,0 +1,4 @@
+* error_position
+* Preprocessor error when not using IEEE754 doubles
+* CJSON_PRIVATE which can be redefined to being extern for the test suite
+* put generated files in subdirectories
